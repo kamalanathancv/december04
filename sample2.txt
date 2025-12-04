@@ -1,0 +1,1 @@
+this an edit changed from empty to non empty file for the second file
